@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<videos>
+   <video>
+      <name>Honda</name>
+	   <url>HONDA.flv</url>
+   </video>
+   <video>
+      <name>Lemonade</name>
+	   <url>LEMONADE.flv</url>
+   </video>
+   <video>
+      <name>Lenscrafters</name>
+	   <url>LENS.flv</url>
+   </video>
+   <video>
+      <name>Playstation</name>
+	   <url>PLAYSTATION.flv</url>
+   </video>
+   <video>
+      <name>Beer</name>
+	   <url>BEER.flv</url>
+   </video>
+   <video>
+      <name>Bread</name>
+	   <url>Bread.flv</url>
+   </video>
+</videos>

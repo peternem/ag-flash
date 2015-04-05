@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+  <song glasstype="CLR">
+    <title label="Clear" data="images/agallite-glass-clear-lrg.gif" caption="Clear" ></title>
+    <link>http://www.google.com</link>
+  </song>
+  <song glasstype="CLR">
+    <title label="ShowerGuard Glass" data="images/agallite-glass-clear-lrg.gif" caption="ShowerGuard Glass" ></title>
+    <link>http://www.agalite.com</link>
+  </song>
+  <song glasstype="CLR">
+    <title label="Starphire" data="images/agallite-glass-clear-lrg.gif" caption="Starphire" ></title>
+    <link>http://www.agalite.com</link>
+  </song>
+  <song glasstype="KRY">
+    <title label="Krystal Serenity" data="images/AG_0016-bubbles.jpg" caption="Krystal Serenity" ></title>
+    <link>images/AG_0016-bubbles.jpg</link>
+  </song>
+    <song glasstype="KRY">
+    <title label="Krystal Storm" data="images/AG_0026-flash.jpg" caption="Krystal Storm" ></title>
+    <link>http://www.agalite.com</link>
+  </song>
+</root>
+
+<!--<slideshow>
+  <slide glasstype="CLR" label="Clear" data="images/agallite-glass-clear-lrg.gif" caption="Clear" >Clear</slide>
+  <slide glasstype="CLR" label="ShowerGuard Glass" data="images/agallite-glass-clear-lrg.gif" caption="ShowerGuard Glass" >ShowerGuard Glass</slide>
+  <slide glasstype="CLR" label="Starphire" data="images/agallite-glass-clear-lrg.gif" caption="Starphire" >Starphire</slide>
+  <slide glasstype="KRY" label="Krystal Serenity" data="images/AG_0016-bubbles.jpg" caption="Krystal Serenity" >Krystal Serenity</slide>
+  <slide glasstype="KRY" label="Krystal Storm" data="images/AG_0026-flash.jpg" caption="Krystal Storm" >Krystal Storm</slide>
+  <slide glasstype="TIN" label="Bronze Tint" data="images/agallite-glass-bronze-lrg.gif" caption="Bronze Tint">Bronze Tint</slide>
+  <slide glasstype="TIN" label="Grey Tint" data="images/grey-tint-gs3-lrg.gif" caption="Grey Tint" >Grey Tint</slide>
+  <slide glasstype="PAT" label="Bubbles" data="images/AG_0016-bubbles.jpg" caption="Bubbles" >Bubbles</slide>
+  <slide glasstype="PAT" label="Flash" data="images/AG_0026-flash.jpg" caption="Flash" >Flash</slide>
+  <slide glasstype="PAT" label="Rain" data="images/agallite-glass-rain-lrg.gif" caption="Rain" >Rain</slide>
+  <slide glasstype="PAT" label="Satin Etched" data="images/agallite-glass-satin-lrg.gif" caption="Satin Etched" >Satin Etched</slide>
+</slideshow>-->

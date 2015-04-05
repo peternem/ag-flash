@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slideshow>
+    <slide glasstype="pat" label="Bubbles" data="images/_MG_0036-bubbles.jpg" caption="Bubbles" />
+  <slide glasstype="pat" label="Flash" data="images/accent-flash_0017-xl.jpg" caption="Flash" />
+  <slide glasstype="pat" label="Glue Chip" data="images/_MG_0004-gluechipAVF.jpg" caption="Glue Chip" />
+  <slide glasstype="pat" label="Narrow Reed" data="images/_MG_0016-NarrowReedAVF.jpg" caption="Narrow Reed" />
+  <slide glasstype="pat" label="Obscure (P-516)" data="images/_MG_0017-ObscureAVF.jpg" caption="Obscure (P-516)" />
+  <slide glasstype="pat" label="Rain" data="images/_MG_0025-RainAVF.jpg" caption="Rain" />
+  <slide glasstype="pat" label="Satin Etched" data="images/_MG_0009-SatinEtchAccent.jpg" caption="Satin Etched" />
+  <slide glasstype="pat" label="Velvex" data="images/_MG_0021-Velvex.jpg" caption="Velvex" />
+</slideshow>

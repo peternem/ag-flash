@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slideshow>
+  <slide glasstype="clr" label="Ima" data="images/texture_ima.jpg" caption="Ima" />
+  <slide glasstype="clr" label="Etre" data="images/texture_etre.jpg" caption="Etre" />
+  <slide glasstype="clr" label="Esto" data="images/texture_esto.jpg" caption="Esto" />
+  <slide glasstype="clr" label="Aqui" data="images/texture_aqui.jpg" caption="Aqui" />
+</slideshow>

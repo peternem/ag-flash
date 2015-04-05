@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<AllStates>
+<site stateAbr="" stateName="Select Your State" />
+<site stateAbr="AL" stateName="Alabama" />
+<site stateAbr="AK" stateName="Alaska" />
+<site stateAbr="AZ" stateName="Arizona" />
+<site stateAbr="AR" stateName="Arkansas" />
+<site stateAbr="CA" stateName="California" />
+</AllStates>

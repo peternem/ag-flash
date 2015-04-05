@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slideshow>
+  <slide label="Double Lines and Trumpet - FB1" data="images/patternFB1.jpg" caption="Double Lines and Trumpet" />
+  <slide label="Parallel Box - FB2" data="images/patternFB2.jpg" caption="Parallel Box" />
+  <slide label="Bamboo Shoot - FB3" data="images/patternFB3.jpg" caption="Bamboo Shoot" />
+  <slide label="Lines and Trumpets - FB4" data="images/patternFB4.jpg" caption="Lines and Trumpets" />
+  <slide label="Para-L - FB5" data="images/patternFB5.jpg" caption="Para-L" />
+  <slide label="Slanted Para-L  - FB6" data="images/patternFB6.jpg" caption="Slanted Para-L" />
+  <slide label="Arc Lights - FB7" data="images/patternFB7.jpg" caption="Arc Lights" />
+  <slide label="Diamonds - FB8" data="images/patternFB8.jpg" caption="Diamonds" />
+  <slide label="Diamonds and Crosses - FB9" data="images/patternFB9.jpg" caption="Diamonds and Crosses" />
+  <slide label="Curved Para-L - FB10" data="images/patternFB10.jpg" caption="Curved Para-L" />
+  <slide label="Waterfall - FB11" data="images/patternFB11.jpg" caption="Waterfall" />
+  <slide label="Hex - FB12" data="images/patternFB12.jpg" caption="Hex" />
+  <slide label="Boxed In - FB13" data="images/patternFB13.jpg" caption="Boxed In" />
+  <slide label="Diamond Jim - FB14" data="images/patternFB14.jpg" caption="Diamond Jim" />
+  <slide label="Tulips - FB20" data="images/patternFB20.jpg" caption="Tulips" />
+  <slide label="Custom Face Bevels" data="images/patternCustFaceBev.jpg" caption="Custom Face Bevels" />
+  <slide label="Plate Grooves" data="images/patternPlateGrooves.jpg" caption="Plate Grooves" />
+</slideshow>

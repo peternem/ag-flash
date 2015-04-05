@@ -1,0 +1,7 @@
+<menu>
+    <button Bwidth="198" Bheight="35" href="aboutus.php" Label="About Us"></button>
+    <button Bwidth="198" Bheight="35" href="history.php" Label="Agalite History"></button>
+    <button Bwidth="198" Bheight="35" href="quality.php" Label="Agalite Quality"></button>
+    <button Bwidth="198" Bheight="35" href="warranty.php" Label="Agalite Warranty"></button>
+    <!--<button Bwidth="198" Bheight="35" href="contact.php" Label="Contact"></button>-->
+</menu>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slideshow>
+  <slide label="Wall to Glass" data="images/nickel_0051-squareHingeGTW-lrg2.jpg" caption="Grazia Hinge - Wall to Glass" />
+  <slide label="180&#x00B0; Glass to Glass  " data="images/nickel_0070-squareHinge-180gGTG-lrg2.jpg" caption="Grazia Hinge - 180&#x00B0; Glass to Glass" />
+  <slide label="90&#x00B0; Glass to Glass" data="images/nickel_0072-SquareHinge90deg-lrg2.jpg" caption="Grazia Hinge - 90&#x00B0; Glass to Glass" />
+  <slide label="135&#x00B0; Glass to Glass" data="images/nickel_0046-squareHinge135GTG-lrg2.jpg" caption="Grazia Hinge - 135&#x00B0; Glass to Glass" />
+  <!--<slide label="Pivot Hinge" data="images/sqpiv-nickel_0037-lrg2.jpg" caption="Grazia Hinge - Pivot" />-->
+</slideshow>

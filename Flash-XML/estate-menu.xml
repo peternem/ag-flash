@@ -1,0 +1,12 @@
+<menu>
+  <button Bwidth="72" Bheight="35" frameNumber="5" Label="Features"></button>
+  <button Bwidth="72" Bheight="35" frameNumber="10" Label="Metal Finishes"></button>
+  <button Bwidth="72" Bheight="35" frameNumber="15" Label="Glass Types"></button>
+  <button Bwidth="72" Bheight="35" frameNumber="20" Label="Designer Glass"></button>
+  <button Bwidth="90" Bheight="35" frameNumber="25" Label="Handles &amp; Pulls"></button>
+  <button Bwidth="72" Bheight="35" frameNumber="30" Label="Header Options"></button>
+  <button Bwidth="90" Bheight="35" frameNumber="35" Label="Slider Pulls &amp; Towel Bar"></button>
+  <button Bwidth="72" Bheight="35" frameNumber="40" Label="Hinge Options"></button>
+  <button Bwidth="82" Bheight="35" frameNumber="45" Label="Accessories"></button>
+  <button Bwidth="90" Bheight="35" frameNumber="50" Label="Configuration Options"></button>
+</menu>

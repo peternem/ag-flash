@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slideshow>
+  <slide label="SE" data="images/Config-SE.png" caption="SE - Shower Enclosure with sliding door." />
+  <slide label="TE" data="images/Config-TE.png" caption="TE - Tub Enclosure with sliding door." />
+  <slide label="SE180" data="images/Config-SE180.png" caption="SE180 - Shower Enclosure with sliding door and inline panel." />
+  <slide label="TE180" data="images/Config-TE180.png" caption="TE180 - Tub Enclosure with sliding door and inline panel." />
+  <slide label="SE180 Step-up" data="images/Config-SE180step.png" caption="SE180 Step-up - Shower Enclosure with sliding door and step-up panel." />
+  <slide label="TE180 Step-up" data="images/Config-TE180step.png" caption="TE180 Step-up - Tub Enclosure with sliding door and step-up panel." />
+  <slide label="TE90" data="images/Config-TE90.png" caption="TE90 - Tub Enclosure with 90 degree panel." />
+  <slide label="SE90" data="images/Config-SE90.png" caption="SE90 - Shower Enclosure with 90 degree panel." />
+  <slide label="SE90 Step-up" data="images/Config-SE90-Stepup.png" caption="SE90 Step-up - Shower enclosure with step-up 90 degree panel." />
+  <slide label="TE90 Step-up" data="images/Config-TE90-Stepup.png" caption="TE90 Step-up - Tub enclosure with step-up 90 degree panel." />
+  <slide label="TE290" data="images/Config-TE290.png" caption="TE290 - Tub with inline and 90 degree panel." />
+  <slide label="SE290" data="images/Config-SE290.png" caption="SE290 - Tub with inline and 90 degree panel." />
+  <slide label="TE290 Step-up" data="images/Config-TE290-Stepup.png" caption="TE290 Step-up - Tub with inline panel and 90 degree step-up panel." />
+  <slide label="SE290 Step-up" data="images/Config-SE290-Stepup.png" caption="SE290 Step-up - Shower with inline panel and 90 degree step-up panel." />
+</slideshow>

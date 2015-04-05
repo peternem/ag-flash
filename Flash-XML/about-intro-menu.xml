@@ -1,0 +1,7 @@
+<menu>
+	<button  href="aboutus.php" Label="About Us">About Us</button>
+	<button  href="history.php" Label="Agalite History">Agalite History</button>
+	<button  href="quality.php" Label="Agalite Quality">Agalite Quality</button>
+	<button  href="warranty.php" Label="Agalite Warranty">Agalite Warranty</button>
+	<!--<button  href="contact.php" Label="Agalite Contact">Agalite Contact</button>-->
+</menu>
