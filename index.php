@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <title>
-<?php include 'includes/site_PageTitle.php'; ?> - Godaddy Server
+<?php include 'includes/site_PageTitle.php'; ?>
 </title>
 <?php include 'includes/metaTags.php'; ?>
 <!-- Begin Google Analytics Code -->
@@ -73,7 +73,7 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
             <embed src="preloader_index.swf" width="800" height="549" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" bgcolor="#BDB7A5" wmode="transparent"></embed>
         </object>
         </noscript>
-    </div>
+4c4c4c    </div>
     <div id="innerwrapper">
         <?php include 'includes/collection_copy.php'; ?>
     </div>

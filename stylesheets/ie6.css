@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+.shadow-right {
+	background-image:none;
+	/*background: url(../images/shadow-midright.png) top right repeat-y;*/
+}
+
+#wrapper {
+	width: 809px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-left: auto;
+	/*background-image:url(../images/shadow-bottom.png);*/
+	background-image:none;
+	height: 810px;
+	background-color:#3e3c36;/*#0074D9*/
+}
+
+
+#ag-links {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-align: center;
+	width:800px;
+	color: #000000;
+	background-color: #E6DEC8;
+	padding:5px 0px 5px 0px;
+
+}
+/* Dealer Tools Tabbed Panel Set up IE 6*/
+.TabbedPanels {
+	margin: 5px 0px 0px 5px;
+	padding: 0px;
+	float: left;
+	clear: none;
+	width: 780px; /* IE Hack to force proper layout when preceded by a paragraph. (hasLayout Bug)*/
+}
