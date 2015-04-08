@@ -1,13 +1,13 @@
-<menu>
-  <button Bwidth="75" Bheight="35" frameNumber="5"  Label="Features"></button>
-  <button Bwidth="75" Bheight="35" frameNumber="10" Label="Metal Finishes"></button>
-  <button Bwidth="75" Bheight="35" frameNumber="15" Label="Glass Types"></button>
-  <button Bwidth="75" Bheight="35" frameNumber="20" Label="Designer Glass"></button>
-  <button Bwidth="80" Bheight="35" frameNumber="25" Label="Handle &amp; Pulls"></button>
-  <button Bwidth="75" Bheight="35" frameNumber="30" Label="Header Options"></button>
-  <button Bwidth="89" Bheight="35" frameNumber="35" Label="Slider Pulls &amp; Towel Bars"></button>
-  <button Bwidth="75" Bheight="35" frameNumber="40" Label="Hinge"></button>
-  <button Bwidth="75" Bheight="35" frameNumber="45" Label="Slider Guides"></button>
-<!--  <button Bwidth="80" frameNumber="50" Label="Accessories"></button>-->
-  <button Bwidth="90" Bheight="35" frameNumber="55" Label="Configuration Options"></button>
-</menu>
+<menu>
+  <button Bwidth="75" Bheight="35" frameNumber="5"  Label="Features"></button>
+  <button Bwidth="75" Bheight="35" frameNumber="10" Label="Metal Finishes"></button>
+  <button Bwidth="75" Bheight="35" frameNumber="15" Label="Glass Types"></button>
+  <button Bwidth="75" Bheight="35" frameNumber="20" Label="Designer Glass"></button>
+  <button Bwidth="80" Bheight="35" frameNumber="25" Label="Handle &amp; Pulls"></button>
+  <button Bwidth="75" Bheight="35" frameNumber="30" Label="Header Options"></button>
+  <button Bwidth="89" Bheight="35" frameNumber="35" Label="Slider Pulls &amp; Towel Bars"></button>
+  <button Bwidth="75" Bheight="35" frameNumber="40" Label="Hinge"></button>
+  <button Bwidth="75" Bheight="35" frameNumber="45" Label="Slider Guides"></button>
+<!--  <button Bwidth="80" frameNumber="50" Label="Accessories"></button>-->
+  <button Bwidth="90" Bheight="35" frameNumber="55" Label="Configuration Options"></button>
+</menu>

@@ -73,7 +73,7 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
             <embed src="preloader_index.swf" width="800" height="549" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" bgcolor="#BDB7A5" wmode="transparent"></embed>
         </object>
         </noscript>
-4c4c4c    </div>
+    </div>
     <div id="innerwrapper">
         <?php include 'includes/collection_copy.php'; ?>
     </div>

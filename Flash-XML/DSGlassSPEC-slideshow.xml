@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<slideshow>
-  <slide label="Rocky Mountain Top" data="images/patternRMT.jpg" caption="Rocky Mountain Top" />
-  <slide label="Arch Top" data="images/patternArch.jpg" caption="Arch Top Doors and Panels" />
-  <slide label="Soft Curved Slider" data="images/patternSoftCurve.png" caption="Soft Curved Slider" />
-  <slide label="Double Doors" data="images/patternDoubleDoors.jpg" caption="Double Doors" />
-  <slide label="Custom Edge Designs" data="images/patternCustEdgeDsg.jpg" caption="Custom Edge Designs" />
-  <slide label="Glass-in-Glass Transom 1" data="images/GlassOppTransom.png" caption="Glass-in-Glass Transom above Header" />
-  <slide label="Glass-in-Glass Transom 2" data="images/GlassOppTransom2.png" caption="Glass-in-Glass Transom in Door" />
-
-</slideshow>
+<?xml version="1.0" encoding="UTF-8"?>
+<slideshow>
+  <slide label="Rocky Mountain Top" data="images/patternRMT.jpg" caption="Rocky Mountain Top" />
+  <slide label="Arch Top" data="images/patternArch.jpg" caption="Arch Top Doors and Panels" />
+  <slide label="Soft Curved Slider" data="images/patternSoftCurve.png" caption="Soft Curved Slider" />
+  <slide label="Double Doors" data="images/patternDoubleDoors.jpg" caption="Double Doors" />
+  <slide label="Custom Edge Designs" data="images/patternCustEdgeDsg.jpg" caption="Custom Edge Designs" />
+  <slide label="Glass-in-Glass Transom 1" data="images/GlassOppTransom.png" caption="Glass-in-Glass Transom above Header" />
+  <slide label="Glass-in-Glass Transom 2" data="images/GlassOppTransom2.png" caption="Glass-in-Glass Transom in Door" />
+
+</slideshow>

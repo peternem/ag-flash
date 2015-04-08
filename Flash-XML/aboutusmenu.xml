@@ -1,8 +1,8 @@
-<menu>
-  <button Bwidth="120" href="aboutus.php" frameNumber="5" Label="About Us"></button>
-  <button  Bwidth="120" href="history.php" frameNumber="10" Label="Agalite History"></button>
-  <button  Bwidth="120" href="quality.php" frameNumber="15" Label="Agalite Quality"></button>
-  <button  Bwidth="120" href="warranty.php" frameNumber="20" Label="Agalite Warranty"></button>
-  <button  Bwidth="120" href="contact.php" frameNumber="25" Label="Contact"></button>
-
-</menu>
+<menu>
+  <button Bwidth="120" href="aboutus.php" frameNumber="5" Label="About Us"></button>
+  <button  Bwidth="120" href="history.php" frameNumber="10" Label="Agalite History"></button>
+  <button  Bwidth="120" href="quality.php" frameNumber="15" Label="Agalite Quality"></button>
+  <button  Bwidth="120" href="warranty.php" frameNumber="20" Label="Agalite Warranty"></button>
+  <button  Bwidth="120" href="contact.php" frameNumber="25" Label="Contact"></button>
+
+</menu>

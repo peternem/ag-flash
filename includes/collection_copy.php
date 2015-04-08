@@ -31,13 +31,13 @@ switch ($filename) {
 	break;
 		//// LOAD Agalite Heavy Glass Hardware Porta Collection copy
 	case ($filename=='collections.php'):
-		echo "<h1>The Four Agalite Shower Door Collections</h1>\n";
-		echo "<p>We want to help you choose an Agalite collection that best matches your personal style, bathroom design and budget. 
-		We offer four different collections for you to choose from, ranging from the heavy glass Estate Collection, to the original heavy glass door the 
-		Accent Collection, to the stylish and durable Fresco Collection, and finally the contemporary and practical Vision Collection. 
-		Each of the Agalite Collections come in a variety of different shower or tub enclosure configurations. 
-		Also, be sure to check out the recently introduced Agalite Hardware line of hinges and clamps for 1/2\" and 3/8\" shower and bath enclosures. 
-		Click on the links above to learn more the Agalite Collections.</p>\n";
+		echo "<h1>The Five Agalite Shower Door Collections</h1>\n";
+		echo '<p>We want to help you choose a collection that best matches your personal style, bathroom design and budget. Agalite’s five main collections 
+				include the heavy glass Estate Collection, the updated and Euro-minimal Silhouette Collection, and the original heavy glass door, the 
+				Accent Collection.  We also offer the stylish and durable Fresco Collection, and its contemporary counterpart, the practical 
+				Vision Collection.  Each Agalite Collection come in a variety of different shower or tub enclosure configurations, metal 
+				colors and glass options.  Estate units use our industry leading Agalite Hardware line of hinges and clamps for 1/2" and 3/8" glass 
+				enclosures. Click on the links above to learn more Agalite’s Five Collections.</p>';
 	break;	
 	//// LOAD ESTATE COLLECTION copy
 	case ($filename=='estate_collection.php'):

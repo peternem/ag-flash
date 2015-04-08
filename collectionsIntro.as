@@ -123,7 +123,7 @@ package {
 			tf2.width = 600;
 			tf2.x = 14;
 			tf2.y = 70;
-			tf2.text = "Agalite Offers Four Different Collections To Complement Any Bathroom Design.";
+			tf2.text = "Agalite Offers Five Different Collections To Complement Any Bathroom Design.";
 			tf2.embedFonts=true;
 			tf2.antiAliasType=AntiAliasType.ADVANCED;
 			tf2.setTextFormat(myTextFormat2);
@@ -168,12 +168,13 @@ package {
 
 			// This variable will hold the x position of the next button in the menu.
 			var xPos:Number=0;
+			var yPos:Number=0;
 			var p:XML;
 			
 			// Create a holder that will contain the menu.
 			var menuHolder:Sprite=new Sprite;
 			menuHolder.x=0; // Postion The Menu.
-			menuHolder.y=471;
+			menuHolder.y=470;
 			addChild(menuHolder); // Add the holder to the stage.
 
 			// Create text formatting for the text fields in the menu.
@@ -358,13 +359,20 @@ package {
 
 				// Add the button to the holder.
 				menuHolder.addChild(button);
-
+				
 				// Position the button.
-				button.x=xPos;
-
+				
+				if (count < 5) {
+					button.x=xPos;
+					button.y=0;
+				} else {
+					button.x=xPos - 322;
+					button.y=-72;
+				}
 				// Increase the x position for the next button.
 				xPos+= button.width + 2;
-
+				yPos+= button.height+ 2;
+				trace (xPos + ' - ' + yPos);
 				// Hide the over state of the button.
 				over_txt.alpha = 0;// Hide the overTEXT state of the button
 				down_txt.alpha = 0;// Hide the overTEXT state of the button
@@ -374,6 +382,7 @@ package {
 
 				// Increase the count.
 				count++;
+				
 			}
 		}
 		// HIDE/Show the over state of the button. 

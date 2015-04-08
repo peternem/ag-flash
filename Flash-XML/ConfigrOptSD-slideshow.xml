@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<slideshow>
-  <slide label="SD" data="images/Config-SD.png" caption="SD - Shower Door" />
-  <slide label="SD180" data="images/Config-SD180.png" caption="SD180 - Shower Door with inline panel." />
-  <slide label="SD180 Step-up" data="images/Config-SD180-stepup.png" caption="SD180 Step-up - Shower Door with inline step-up panel." />
-  <slide label="SD280" data="images/Config-SD280.png" caption="SD280 - Shower door with two inline panels." />
-  <slide label="SD280 Step-up" data="images/Config-SD280-stepup.png" caption="SD280 Step-up - Shower door with inline panel and one step-up inline panels." />
-  <slide label="SD280 Step-up" data="images/Config-SD280-2stepup.png" caption="SD280 Step-up - Shower door with two step-up inline panels." />
-  <slide label="SD90" data="images/Config-SD90.png" caption="SD90 - Shower door with 90 degree panel." />
-  <slide label="SD90 Step-up" data="images/Config-SD90-stepup.png" caption="SD90 - Shower door with 90 degree step-up panel. " /> 
-  <slide label="SD290" data="images/Config-SD290.png" caption="SD290 - Shower door with inline panel and 90 degree panel." />
-  <slide label="SD290 Step-up PAW 1" data="images/Config-SD290-stepupPAW1.png" caption="SD290 Step-up PAW - Inline full panel at wall, shower door and 90 degree step-up panel." />
-  <slide label="SD290 Step-up PAW 2" data="images/Config-SD290-stepupPAW2.png" caption="SD290 Step-up PAW - Inline step-up panel at wall, shower door and 90 degree step-up panel." />
-  <slide label="SD290 Step-up DAW 1" data="images/Config-SD290-stepupDAW1.png" caption="SD290 Step-up DAW - Shower door at wall, inline full panel and 90 degree step-up panel." />
-  <slide label="SD290 Step-up DAW 2" data="images/Config-SD290-stepupDAW2.png" caption="SD290 Step-up DAW - Shower door at wall, inline step-up panel and 90 degree step-up panel." />
-  <slide label="SDNEO" data="images/Config-SDNEO.png" caption="SDNEO - Shower door with two 135 degree neo angle panels." />
-  <slide label="SDNEO PAW 1" data="images/Config-SDNEO-stepupPAW1.png" caption="SDNEO PAW - 135 degree neo angle shower door configuration with full-size panel at wall, shower door and step-up panel." />  
-  <slide label="SDNEO PAW 2" data="images/Config-SDNEO-stepupPAW2.png" caption="SDNEO PAW - 135 degree neo angle shower door configuration with step-up panel at wall, shower door and step-up panel." />  
-  <slide label="SDNEO DAW 1" data="images/Config-SDNEO-stepupDAW1.png" caption="SDNEO DAW - 135 degree Neo angle shower door configuration with shower door at the wall, inline full-size or step-up panel and step-up panel." />
-  <slide label="SDNEO DAW 2" data="images/Config-SDNEO-stepupDAW2.png" caption="SDNEO DAW - 135 degree Neo angle shower door configuration with shower door at the wall, with 2 inline step-up panels." />
-
-</slideshow>
+<?xml version="1.0" encoding="UTF-8"?>
+<slideshow>
+  <slide label="SD" data="images/Config-SD.png" caption="SD - Shower Door" />
+  <slide label="SD180" data="images/Config-SD180.png" caption="SD180 - Shower Door with inline panel." />
+  <slide label="SD180 Step-up" data="images/Config-SD180-stepup.png" caption="SD180 Step-up - Shower Door with inline step-up panel." />
+  <slide label="SD280" data="images/Config-SD280.png" caption="SD280 - Shower door with two inline panels." />
+  <slide label="SD280 Step-up" data="images/Config-SD280-stepup.png" caption="SD280 Step-up - Shower door with inline panel and one step-up inline panels." />
+  <slide label="SD280 Step-up" data="images/Config-SD280-2stepup.png" caption="SD280 Step-up - Shower door with two step-up inline panels." />
+  <slide label="SD90" data="images/Config-SD90.png" caption="SD90 - Shower door with 90 degree panel." />
+  <slide label="SD90 Step-up" data="images/Config-SD90-stepup.png" caption="SD90 - Shower door with 90 degree step-up panel. " /> 
+  <slide label="SD290" data="images/Config-SD290.png" caption="SD290 - Shower door with inline panel and 90 degree panel." />
+  <slide label="SD290 Step-up PAW 1" data="images/Config-SD290-stepupPAW1.png" caption="SD290 Step-up PAW - Inline full panel at wall, shower door and 90 degree step-up panel." />
+  <slide label="SD290 Step-up PAW 2" data="images/Config-SD290-stepupPAW2.png" caption="SD290 Step-up PAW - Inline step-up panel at wall, shower door and 90 degree step-up panel." />
+  <slide label="SD290 Step-up DAW 1" data="images/Config-SD290-stepupDAW1.png" caption="SD290 Step-up DAW - Shower door at wall, inline full panel and 90 degree step-up panel." />
+  <slide label="SD290 Step-up DAW 2" data="images/Config-SD290-stepupDAW2.png" caption="SD290 Step-up DAW - Shower door at wall, inline step-up panel and 90 degree step-up panel." />
+  <slide label="SDNEO" data="images/Config-SDNEO.png" caption="SDNEO - Shower door with two 135 degree neo angle panels." />
+  <slide label="SDNEO PAW 1" data="images/Config-SDNEO-stepupPAW1.png" caption="SDNEO PAW - 135 degree neo angle shower door configuration with full-size panel at wall, shower door and step-up panel." />  
+  <slide label="SDNEO PAW 2" data="images/Config-SDNEO-stepupPAW2.png" caption="SDNEO PAW - 135 degree neo angle shower door configuration with step-up panel at wall, shower door and step-up panel." />  
+  <slide label="SDNEO DAW 1" data="images/Config-SDNEO-stepupDAW1.png" caption="SDNEO DAW - 135 degree Neo angle shower door configuration with shower door at the wall, inline full-size or step-up panel and step-up panel." />
+  <slide label="SDNEO DAW 2" data="images/Config-SDNEO-stepupDAW2.png" caption="SDNEO DAW - 135 degree Neo angle shower door configuration with shower door at the wall, with 2 inline step-up panels." />
+
+</slideshow>

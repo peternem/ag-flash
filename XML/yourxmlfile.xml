@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<names>
-<item label='John' data='President' url="http://www.google.com"/>
-<item label='Amy' data='CEO'/>
-<item label='Blake' data='VP'/>
+<?xml version="1.0" encoding="utf-8"?>
+
+<names>
+<item label='John' data='President' url="http://www.google.com"/>
+<item label='Amy' data='CEO'/>
+<item label='Blake' data='VP'/>
 </names>;

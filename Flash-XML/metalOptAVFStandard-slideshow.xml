@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<slideshow>
-  <slide label="Silver" data="metalOpt-images/silver-lrg.jpg" caption="Silver" />
-  <slide label="Satin Silver" data="metalOpt-images/satin-silver-lrg.jpg" caption="Satin Silver" />
-  <slide label="Brushed Nickel" data="metalOpt-images/brushed-nickel-lrg.jpg" caption="Brushed Nickel" />
-  <slide label="Gold" data="metalOpt-images/bright-gold-lrg.jpg" caption="Gold" />
- <!-- <slide label="White" data="metalOpt-images/white-lrg.jpg" caption="White" />
-  <slide label="Almond" data="metalOpt-images/almond-lrg.jpg" caption="Almond" />
-  <slide label="Black" data="metalOpt-images/black-lrg.jpg" caption="Black" />-->
-  <slide label="Oil Rubbed Bronze" data="metalOpt-images/10B-oil-rubbed-bronzePC-lrg.jpg" caption="Oil Rubbed Bronze" />
-<!--  <slide label="Oil Rubbed Bronze (Annodized)" data="metalOpt-images/oil-rubbed-bronzeanno-lrg.jpg" caption="Oil Rubbed Bronze (Annodized)" />
---></slideshow>
+<?xml version="1.0" encoding="UTF-8"?>
+<slideshow>
+  <slide label="Silver" data="metalOpt-images/silver-lrg.jpg" caption="Silver" />
+  <slide label="Satin Silver" data="metalOpt-images/satin-silver-lrg.jpg" caption="Satin Silver" />
+  <slide label="Brushed Nickel" data="metalOpt-images/brushed-nickel-lrg.jpg" caption="Brushed Nickel" />
+  <slide label="Gold" data="metalOpt-images/bright-gold-lrg.jpg" caption="Gold" />
+ <!-- <slide label="White" data="metalOpt-images/white-lrg.jpg" caption="White" />
+  <slide label="Almond" data="metalOpt-images/almond-lrg.jpg" caption="Almond" />
+  <slide label="Black" data="metalOpt-images/black-lrg.jpg" caption="Black" />-->
+  <slide label="Oil Rubbed Bronze" data="metalOpt-images/10B-oil-rubbed-bronzePC-lrg.jpg" caption="Oil Rubbed Bronze" />
+<!--  <slide label="Oil Rubbed Bronze (Annodized)" data="metalOpt-images/oil-rubbed-bronzeanno-lrg.jpg" caption="Oil Rubbed Bronze (Annodized)" />
+--></slideshow>

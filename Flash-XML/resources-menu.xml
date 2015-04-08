@@ -1,8 +1,8 @@
-<menu>
-  <button Bwidth="131" Bheight="35" frameNumber="5" Label="Agalite Brochures"></button>
-  <button Bwidth="131" Bheight="35" frameNumber="10" Label="Installation Instructions"></button>
-  <button Bwidth="131" Bheight="35" frameNumber="15" Label="Owner's Manual & Warranty Info"></button>
-  <button Bwidth="131" Bheight="35" frameNumber="20" Label="Glass & Metal Maintenance"></button>
-  <button Bwidth="131" Bheight="35" frameNumber="25" Label="EasyClean10 Maintenance"></button>
-  <button Bwidth="131" Bheight="35" frameNumber="30" Label="ShowerGuard Maintenance"></button>
-</menu>
+<menu>
+  <button Bwidth="131" Bheight="35" frameNumber="5" Label="Agalite Brochures"></button>
+  <button Bwidth="131" Bheight="35" frameNumber="10" Label="Installation Instructions"></button>
+  <button Bwidth="131" Bheight="35" frameNumber="15" Label="Owner's Manual & Warranty Info"></button>
+  <button Bwidth="131" Bheight="35" frameNumber="20" Label="Glass & Metal Maintenance"></button>
+  <button Bwidth="131" Bheight="35" frameNumber="25" Label="EasyClean10 Maintenance"></button>
+  <button Bwidth="131" Bheight="35" frameNumber="30" Label="ShowerGuard Maintenance"></button>
+</menu>

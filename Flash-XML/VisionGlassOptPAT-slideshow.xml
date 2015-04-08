@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<slideshow>
-  <slide glasstype="pat" label="Glue Chip" data="images/_MG_0004-gluechipAVF.jpg" caption="Glue Chip" />
-  <slide glasstype="pat" label="Narrow Reed" data="images/_MG_0016-NarrowReedAVF.jpg" caption="Narrow Reed*" caption1="* Not Available on Vision Swing Doors"/>
-  <slide glasstype="pat" label="Obscure (P-516)" data="images/_MG_0017-ObscureAVF.jpg" caption="Obscure (P-516)" />
-  <slide glasstype="pat" label="Rain" data="images/_MG_0025-RainAVF.jpg" caption="Rain" />
-  <slide glasstype="pat" label="Velvex" data="images/_MG_0021-Velvex.jpg" caption="Velvex" />
-</slideshow>
+<?xml version="1.0" encoding="UTF-8"?>
+<slideshow>
+  <slide glasstype="pat" label="Glue Chip" data="images/_MG_0004-gluechipAVF.jpg" caption="Glue Chip" />
+  <slide glasstype="pat" label="Narrow Reed" data="images/_MG_0016-NarrowReedAVF.jpg" caption="Narrow Reed*" caption1="* Not Available on Vision Swing Doors"/>
+  <slide glasstype="pat" label="Obscure (P-516)" data="images/_MG_0017-ObscureAVF.jpg" caption="Obscure (P-516)" />
+  <slide glasstype="pat" label="Rain" data="images/_MG_0025-RainAVF.jpg" caption="Rain" />
+  <slide glasstype="pat" label="Velvex" data="images/_MG_0021-Velvex.jpg" caption="Velvex" />
+</slideshow>

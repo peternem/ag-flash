@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" ?>
-<slideshow>
-  <slide glasstype="CLR"  data="../Flash-Docs/images/AG_0016-bubbles.jpg" caption="Clear" >Clear</slide>
-  <slide glasstype="CLR"  data="../Flash-Docs/images/AG_0026-flash.jpg" caption="ShowerGuard Glass" >ShowerGuard Glass</slide>
-  <slide glasstype="KRY" data="../Flash-Docs/images/AG_0026-flash.jpg" caption="ShowerGuard Glass">Shaun</slide>
+﻿<?xml version="1.0" ?>
+<slideshow>
+  <slide glasstype="CLR"  data="../Flash-Docs/images/AG_0016-bubbles.jpg" caption="Clear" >Clear</slide>
+  <slide glasstype="CLR"  data="../Flash-Docs/images/AG_0026-flash.jpg" caption="ShowerGuard Glass" >ShowerGuard Glass</slide>
+  <slide glasstype="KRY" data="../Flash-Docs/images/AG_0026-flash.jpg" caption="ShowerGuard Glass">Shaun</slide>
 </slideshow>

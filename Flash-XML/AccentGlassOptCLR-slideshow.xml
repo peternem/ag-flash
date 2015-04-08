@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<slideshow>
-  <slide glasstype="clr" label="Clear" data="images/_MG_0012-ClearAVF.jpg" caption="Clear" />
-  <slide glasstype="clr" label="ShowerGuard Glass" data="images/_MG_0005-ClearSG-AVF.jpg" caption="ShowerGuard Glass (Low Iron)" />
-  <slide glasstype="clr" label="Starphire Glass (Low Iron)" data="images/_MG_0005-StarphireAccent.jpg" caption="Starphire Glass (Low Iron)" />
-</slideshow>
+<?xml version="1.0" encoding="UTF-8"?>
+<slideshow>
+  <slide glasstype="clr" label="Clear" data="images/_MG_0012-ClearAVF.jpg" caption="Clear" />
+  <slide glasstype="clr" label="ShowerGuard Glass" data="images/_MG_0005-ClearSG-AVF.jpg" caption="ShowerGuard Glass (Low Iron)" />
+  <slide glasstype="clr" label="Starphire Glass (Low Iron)" data="images/_MG_0005-StarphireAccent.jpg" caption="Starphire Glass (Low Iron)" />
+</slideshow>

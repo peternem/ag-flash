@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<slideshow>
-  <slide label="Palm Fronds - Palm1/Palm2" data="images/patternPalmFronds.jpg" caption="Palm Fronds" />
-  <slide label="Sea Shells - Sea1/Sea2" data="images/patternSeaShells.jpg" caption="Sea Shells" />
-  <slide label="Swans - Swan1/Swan2 " data="images/patternSwans.jpg" caption="Swans" />
-  <slide label="Dolphins - Dolp1/Dolp2" data="images/patternDolphins.jpg" caption="Dolphins" />
-  <slide label="Horizontal Stripes - SE-5" data="images/patternSE-5-Hor.jpg" caption="Horizontal Stripes" />
-  <slide label="Diagonal Stripes  - SE-5" data="images/patternSE-5-Dia.jpg" caption="Diagonal Stripes" />
-</slideshow>
+<?xml version="1.0" encoding="UTF-8"?>
+<slideshow>
+  <slide label="Palm Fronds - Palm1/Palm2" data="images/patternPalmFronds.jpg" caption="Palm Fronds" />
+  <slide label="Sea Shells - Sea1/Sea2" data="images/patternSeaShells.jpg" caption="Sea Shells" />
+  <slide label="Swans - Swan1/Swan2 " data="images/patternSwans.jpg" caption="Swans" />
+  <slide label="Dolphins - Dolp1/Dolp2" data="images/patternDolphins.jpg" caption="Dolphins" />
+  <slide label="Horizontal Stripes - SE-5" data="images/patternSE-5-Hor.jpg" caption="Horizontal Stripes" />
+  <slide label="Diagonal Stripes  - SE-5" data="images/patternSE-5-Dia.jpg" caption="Diagonal Stripes" />
+</slideshow>

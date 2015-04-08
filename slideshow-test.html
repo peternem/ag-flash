@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<script src="js/jquery-1.4.2.js" type="text/javascript"></script>
+<script src="js/jquery-slideshow.js" language="javascript"></script>
+<style>
+/* --------------------------------------------------------------------
+  START - CSS Reset																	
+ -------------------------------------------------------------------- */
+ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+		margin: 0;
+		padding: 0;
+		border: 0;
+		outline: 0;
+		font-weight: inherit;
+		font-style: inherit;
+		font-family: inherit;
+		vertical-align: baseline;
+		list-style:none;
+}
+
+/* --------------------------------------------------------------------
+  END - CSS Reset																	
+ -------------------------------------------------------------------- */
+
+
+#wrapper {
+	width: 955px;
+	margin: 0 auto; /* the auto margins (in conjunction with a width) center the page */
+	height:800px;
+	border: 1px solid #000000;
+	text-align: left; /* this overrides the text-align: center on the body element. */
+	background-color:#3e3c36;/*#0074D9*//*	-moz-box-shadow: 3px 3px 3px #000;
+	-webkit-box-shadow: 3px 3px 3px #000;*/	
+	position:relative;		
+}
+
+h1 {
+	margin: 15px 10px 0px 20px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	text-shadow: 2px 2px 2px #000;
+	color:#fff;
+	font-size:26px;	
+}
+
+h2 {
+	margin: 0px 10px 15px 20px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	text-shadow: 2px 2px 2px #000;
+	color:#fff;
+	font-size:14px;	
+}
+h3 {
+	margin:5px 0px 5px 20px;
+	color:#000000;
+	font-size:12px;
+}
+
+#navbars {
+background-color:#999999;
+background-image:url(images/Bground-Slideshow-Menu.jpg);
+border:#bdb7a5 1px solid ;
+bottom:0;
+height:35px;
+overflow:auto;
+z-index:1;
+position:absolute;
+width:955px;
+}
+</style>
+</head>
+<body bgcolor="#333333">
+<div id="wrapper">
+    <div style="width:955px; z-index:1; position: relative;">
+            <img src="images/HG102307_0005-v2.jpg" id="imageSlide" height="396" width="475" style="display: inline;">
+            <img src="images/VISION-SE-SD-1.jpg" id="imageSlide1" height="396" width="475" style="display: inline;">
+            <img src="images/KiroTVConceptHomes-h1h2.jpg" id="imageSlide2" height="396" width="475" style="display: inline;">
+            <img src="images/resourcesIntro.jpg" id="imageSlide3" height="396" width="475" style="display: inline;">
+    </div>
+    <div id="navbars">NavBar</div>
+    <div style="width:600px; height:50px; top:25px; z-index:2; position:absolute;">
+        <H1>Elegance, Style, Quality</H1>
+        <h2>Agalite Shower Doors Are The Focal Point Of Bathroom Design.</h2>
+    </div>
+</div>
+  
+</body>
+</html>

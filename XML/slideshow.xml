@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-  <slideshow>
-
-<image src="images/fly.jpg" desc="Fly"/>
-
-<image src="images/mouse.jpg" desc="Computer mouse"/>
-
-<image src="images/country.jpg" desc="Country"/>
-
-<image src="images/rope.jpg" desc="Rope"/>
-
-<image src="images/flower.jpg" desc="Flower"/>
-
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <slideshow>
+
+<image src="images/fly.jpg" desc="Fly"/>
+
+<image src="images/mouse.jpg" desc="Computer mouse"/>
+
+<image src="images/country.jpg" desc="Country"/>
+
+<image src="images/rope.jpg" desc="Rope"/>
+
+<image src="images/flower.jpg" desc="Flower"/>
+
 </slideshow>
