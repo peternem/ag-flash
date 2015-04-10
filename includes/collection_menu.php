@@ -64,33 +64,4 @@ switch ($filename) {
 	default:
 		echo "<b>Collection_menu.php !Error!<b>";
 }
-
-
-//	if($filename=='collections.php'){
-//		echo "<a href='estate_collection.php' target='_parent' title='Estate Collection Shower Enclosures and Bath Enclosures'>Estate Collection</a>
-//		<img src='images/arrow-forward.gif' class='icon'/> ";
-//	}
-//	elseif($filename=='estate_collection.php'){
-//		echo "<a href='accent_collection.php' target='_parent' title='Accent Collection Shower Enclosures and Bath Enclosures'>Accent Collection</a>
-//		<img src='images/arrow-forward.gif' class='icon'/> ";
-//	}
-//	elseif($filename=='accent_collection.php'){
-//		echo "<img src='images/arrow-back.gif' class='icon'/>
-//		<a href='estate_collection.php' target='_parent' title='Estate Collection Shower Enclosures and Bath Enclosures'>Estate Collection</a>&nbsp;|&nbsp;<a href='fresco_collection.php' target='_parent' title='Fresco Collection Shower Enclosures and Bath Enclosures'>Fresco Collection</a>
-//		<img src='images/arrow-forward.gif' class='icon' />";
-//	}
-//	elseif($filename=='fresco_collection.php'){
-//		echo "<img src='images/arrow-back.gif' class='icon'/>
-//		<a href='accent_collection.php' target='_parent' title='Accent Collection Shower Enclosures and Bath Enclosures'>Accent Collection</a>&nbsp;|&nbsp;<a href='vision_collection.php'target='_parent' title='Vision Collection Shower Enclosures and Bath Enclosures'>Vision Collection</a>
-//		<img src='images/arrow-forward.gif' class='icon'/>";
-//	}
-//	elseif($filename=='vision_collection.php'){
-//		echo "<img src='images/arrow-back.gif' class='icon'/>
-//		<a href='fresco_collection.php' title='Fresco Collection Shower Enclosures and Bath Enclosures'>Fresco Collection</a>&nbsp;|&nbsp;<a href='estate_collection.php' title='Estate Collection Shower Enclosures and Bath Enclosures'>Estate Collection</a>
-//		<img src='images/arrow-forward.gif' class='icon'/>";
-//	}
-//	else{
-//		echo "<b>Error!<b>";
-//	}
-
 ?>
