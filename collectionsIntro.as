@@ -103,8 +103,8 @@ package {
 
 
 			var tf:TextField = new TextField();
-			//tf.autoSize = TextFieldAutoSize.LEFT;
-			tf.background = false;
+			tf.autoSize = TextFieldAutoSize.LEFT;
+			//tf.background = false;
 			tf.border = false;
 			tf.width = 500;
 			tf.x = 12;
@@ -115,7 +115,85 @@ package {
 			tf.setTextFormat(myTextFormat1);
 			tf.filters = [glow];
 			addChild(tf);
+			
+			var est:TextField = new TextField();
+			est.autoSize = TextFieldAutoSize.LEFT;
+			//est.background = false;
+			//est.border = false;
+			est.width = 500;
+			est.x = 18;
+			est.y = 370;
+			est.text = "Estate Collections";
+			est.embedFonts=true;
+			est.antiAliasType=AntiAliasType.ADVANCED;
+			est.setTextFormat(myTextFormat2);
+			est.filters = [glow];
+			addChild(est);
 
+			var silCol:TextField = new TextField();
+			silCol.autoSize = TextFieldAutoSize.LEFT;
+			//silCol.background = false;
+			//silCol.border = true;
+			silCol.x = 163;
+			silCol.y = 370;
+			silCol.text = "Silhouette Collections";
+			silCol.embedFonts=true;
+			silCol.antiAliasType=AntiAliasType.ADVANCED;
+			silCol.setTextFormat(myTextFormat2);
+			silCol.filters = [glow];
+			addChild(silCol);
+			
+			var accCol:TextField = new TextField();
+			accCol.autoSize = TextFieldAutoSize.LEFT;
+			//accCol.background = false;
+			//accCol.border = true;
+			accCol.x = 335;
+			accCol.y = 370;
+			accCol.text = "Accent Collections";
+			accCol.embedFonts=true;
+			accCol.antiAliasType=AntiAliasType.ADVANCED;
+			accCol.setTextFormat(myTextFormat2);
+			accCol.filters = [glow];
+			addChild(accCol);
+			
+			var freCol:TextField = new TextField();
+			freCol.autoSize = TextFieldAutoSize.LEFT;
+			//freCol.background = false;
+			//freCol.border = true;
+			freCol.x = 495;
+			freCol.y = 370;
+			freCol.text = "Fresco Collections";
+			freCol.embedFonts=true;
+			freCol.antiAliasType=AntiAliasType.ADVANCED;
+			freCol.setTextFormat(myTextFormat2);
+			freCol.filters = [glow];
+			addChild(freCol);
+			
+			var visCol:TextField = new TextField();
+			visCol.autoSize = TextFieldAutoSize.LEFT;
+			//visCol.background = false;
+			//visCol.border = true;
+			visCol.x = 655;
+			visCol.y = 370;
+			visCol.text = "Vision Collections";
+			visCol.embedFonts=true;
+			visCol.antiAliasType=AntiAliasType.ADVANCED;
+			visCol.setTextFormat(myTextFormat2);
+			visCol.filters = [glow];
+			addChild(visCol);
+			
+			var soonTxt:TextField = new TextField();
+			soonTxt.autoSize = TextFieldAutoSize.LEFT;
+			soonTxt.rotation = -15;
+			soonTxt.x = 25;
+			soonTxt.y = 505;
+			soonTxt.text = "Coming Soon";
+			soonTxt.embedFonts=true;
+			soonTxt.antiAliasType=AntiAliasType.ADVANCED;
+			soonTxt.setTextFormat(myTextFormat2);
+			soonTxt.filters = [glow];
+			addChild(soonTxt);
+			
 			var tf2:TextField = new TextField();
 			//tf2.autoSize = TextFieldAutoSize.LEFT;
 			tf2.background = false;
@@ -159,6 +237,17 @@ package {
 			pinstripeBot.name="up";
 			pinstripeBot.alpha=1;
 			addChild(pinstripeBot);
+			
+			var emptyBox:Sprite=new Sprite;
+			emptyBox.graphics.lineStyle(0,0x000000,100);
+			emptyBox.graphics.beginFill(0xCAC3B0);
+			emptyBox.graphics.drawRect(320,470,477,67.5);
+			emptyBox.graphics.endFill();
+			emptyBox.name="emptyBox";
+			emptyBox.alpha=1;
+//			emptyBox.x = 320;
+//			emptyBox.y = 470;
+			addChild(emptyBox);
 		}
 	/**
 		 * Draw the menu. 
@@ -229,6 +318,8 @@ package {
 				button.name=__menuList[count].@frameNumber;
 				button.mouseChildren=false;// Disable the mouse events of all the objects within the button.
 				button.buttonMode=true;// Make the sprite behave as a button.
+				button.x = __menuList[count].@xCoord;// Make the sprite behave as a button.
+				button.y = __menuList[count].@yCoord;
 
 				// Create the label for the down button state.
 				var up_txt:TextField=new TextField;
@@ -356,23 +447,8 @@ package {
 				button.addEventListener(MouseEvent.MOUSE_DOWN,displayDownState);
 				button.addEventListener(MouseEvent.MOUSE_OUT,displayInactiveState);
 				button.addEventListener(MouseEvent.CLICK,displayMessage);
+				addChild(button);
 
-				// Add the button to the holder.
-				menuHolder.addChild(button);
-				
-				// Position the button.
-				
-				if (count < 5) {
-					button.x=xPos;
-					button.y=0;
-				} else {
-					button.x=xPos - 322;
-					button.y=-72;
-				}
-				// Increase the x position for the next button.
-				xPos+= button.width + 2;
-				yPos+= button.height+ 2;
-				trace (xPos + ' - ' + yPos);
 				// Hide the over state of the button.
 				over_txt.alpha = 0;// Hide the overTEXT state of the button
 				down_txt.alpha = 0;// Hide the overTEXT state of the button

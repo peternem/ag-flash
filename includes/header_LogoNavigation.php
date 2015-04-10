@@ -22,7 +22,7 @@
 					<li><a href="vision_collection.php">Vision Collection</a></li>
 					<li><a href="vision_collection.php">Vision Collection</a></li>
 					<li><a href="silhouette_slider_collection.php">Silhouette Slider Collection</a></li>
-					<li><a href="silhouette_elite_collection.php">Silhouette Elite Swing Door Collection</a></li>
+					<li><a href="silhouette_elite_collection.php">Silhouette Elite Collection</a></li>
 				</ul></li>
 			<li><a href="agalite-shower-doors-glass.php" title="Glass Options">Shower
 					Door Glass</a></li>

@@ -1,5 +1,9 @@
 <menu>
-	<button Bwidth="158" Bheight="67.5" frameNumber="2" Label="Estate Collection" SubLabel="1/2&quot; or 3/8&quot; frameless shower door glass, solid brass hardware"></button>	<button Bwidth="158" Bheight="67.5" frameNumber="3" Label="Accent Collection" SubLabel="1/4&quot; frameless glass shower doors and tub enclosures"></button>	<button Bwidth="158" Bheight="67.5" frameNumber="4" Label="Fresco Collection" SubLabel="3/16&quot; fully framed glass shower doors and tub enclosures"></button>	<button Bwidth="158" Bheight="67.5" frameNumber="5" Label="Vision Collection" SubLabel="3/16&quot; semi-frameless glass shower doors enclosures"></button>
-	<button Bwidth="158" Bheight="67.5" frameNumber="5" Label="Silhouette Slider Collection" SubLabel="1/4&quot; semi-frameless glass Euro style by-passing sliding enclosures"></button>
-	<button Bwidth="158" Bheight="67.5" frameNumber="5" Label="Silhouette Elite Swing Door Collection" SubLabel="1/4&quot; semi-frameless glass swing door with 3/8&quot; sidelite panels"></button>	<button Bwidth="158" Bheight="67.5" frameNumber="6" Label="Agalite Hardware" SubLabel="1/2&quot; or 3/8&quot; heavy glass shower doors hardware"></button>
-</menu>
+	<button Bwidth="158" xCoord="0" yCoord="400" Bheight="67.5" frameNumber="2" Label="Estate Collection" SubLabel="1/2&quot; or 3/8&quot; frameless shower door glass, solid brass hardware"></button>
+	<button Bwidth="158" xCoord="0" yCoord="470" Bheight="67.5" frameNumber="0" Label="Estate Transcend" SubLabel="1/2&quot; or 3/8&quot; frameless shower door glass, solid brass hardware"></button>
+	<button Bwidth="158" xCoord="160" yCoord="400" Bheight="67.5" frameNumber="7" Label="Silhouette Sliders" SubLabel="1/4&quot; doors with Semi-Frameless Euro Design"></button>
+	<button Bwidth="158" xCoord="160" yCoord="470" Bheight="67.5" frameNumber="8" Label="Silhouette Elite" SubLabel="1/4&quot; doors with 3/8&quot; sidelites Semi-Frameless and Headerless"></button>
+	<button Bwidth="158" xCoord="320" yCoord="400" Bheight="67.5" frameNumber="3" Label="Accent Collection" SubLabel="1/4&quot; frameless glass shower doors and tub enclosures"></button>
+	<button Bwidth="158" xCoord="480" yCoord="400" Bheight="67.5" frameNumber="4" Label="Fresco Collection" SubLabel="3/16&quot; fully framed glass shower doors and tub enclosures"></button>
+	<button Bwidth="158" xCoord="640" yCoord="400" Bheight="67.5" frameNumber="5" Label="Vision Collection" SubLabel="3/16&quot; semi-frameless glass shower doors enclosures"></button>
+</menu>
