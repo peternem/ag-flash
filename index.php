@@ -16,7 +16,7 @@
     </div>
     <div id="flashContent">
     <style type="text/css">
-    	#PromoDiv2 {
+#PromoDiv2 {
 	z-index:140;
 	position: absolute;
 	margin-top:20px;
