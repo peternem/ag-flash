@@ -57,6 +57,23 @@ switch ($filename) {
 		enclosure. Using the strongest method of fastening, the hardware is securely attached through holes in the glass, resulting in
 		years of trouble-free operation.</p>\n";
 	break;
+    //// silhouette_slider_collection copy
+	case($filename=='silhouette_slider_collection.php'):
+		echo "<h1>Silhouette Slider Collection - Euro Design 1/4\" Glass Shower and Tub Enclosures</h1>\n";
+		echo "<p>Silhouette Sliders are becoming Agalite's most popular sliders. If you are looking for an exceptionally high quality slider 
+        with a rounded Euro design that is built to last a lifetime, then the Silhouette is your first choice.  Silhouette Slider Collection 
+        minimizes metal interruptions and increases the view by streamlining and eliminating components.</p>\n";
+		echo "<p>All slider shower and tub doors in the Silhouette Collection incorporate several design features that ensure it is an attractive, 
+        easy to clean enclosure. Using the strongest method of fastening, the hardware is securely attached through holes in the glass, resulting 
+        in years of trouble-free operation.</p>\n";
+	break;
+    //// silhouette_elite_collection copy
+	case($filename=='silhouette_elite_collection.php'):
+		echo "<h1>Silhouette Elite Collection - 1/4\" Door with 3/8\" Sidelites and no Headers or Posts</h1>\n";
+		echo "<p>Takes an innovative approach to updating traditional shower doors.  Silhouette Elite minimizes sight lines by eliminating aluminum headers and center posts, yet still achieves unmatched water protection. </p>\n";
+		echo "<p>The door is beautifully polished 1/4\" glass with easy maintenance, durable Clear-poly sweeps and latch jambs.  Stationary sidelite panels are elegant 3/8\" thick glass with flat polished edgework.  Maximum water protection is the result of a full length curb.</p>\n";
+        echo "<p>Available in door only, door with 180° panel and door and panel with 90° return configurations.  Choose from four standard or multiple custom handle options.</p>\n";
+	break;
 	//// LOAD FRESCO COLLECTION copy
 	case($filename=='fresco_collection.php'):
 		echo "<h1>Fresco Collection - 3/16&quot; Fully Framed Glass Shower Door and Tub Enclosures</h1>\n";

@@ -19,6 +19,8 @@ $url3 = "accent_collection.php";
 $url4 = "fresco_collection.php";
 $url5 = "vision_collection.php";
 $url6 = "agalite_hardware.php";
+$url7 = "silhouette_slider_collection.php";
+$url8 = "silhouette_slider_collection.php";
 
 $ConstantContact = "estate_collection.php?utm_source=ConstantContact&utm_medium=e-blast&utm_campaign=September%2BPromo";
 
@@ -43,6 +45,7 @@ switch ($filename) {
 		<a href='$url2' target='_parent' title='Estate Collection Shower Enclosures and Bath Enclosures'>Estate Collection</a>&nbsp;|&nbsp;<a href='$url4' target='_parent' title='Fresco Collection Shower Enclosures and Bath Enclosures'>Fresco Collection</a>
 		<img src='images/arrow-forward.gif' class='icon' alt=''/>";
 	break;
+    
 	//Fresco Collection
 	case($filename==$url4):
 		echo "<img src='images/arrow-back.gif' class='icon' alt=''/>
@@ -59,6 +62,18 @@ switch ($filename) {
 	case ($filename==$url6):
 		echo "<img src='images/arrow-back.gif' class='icon' alt=''/>
 		<a href='$url5' title='Vision Collection Shower Enclosures and Bath Enclosures'>Vision Collection</a>&nbsp;|&nbsp;<a href='$url2' target='_parent' title='Estate Collection Shower Enclosures and Bath Enclosures'>Estate Collection</a>
+		<img src='images/arrow-forward.gif' class='icon' alt=''/>";
+	break;
+    //Silhouette Collection	
+	case($filename==$ur7 || $filename==$ConstantContact):
+		echo "<img src='images/arrow-back.gif' class='icon' alt=''/>
+		<a href='$url6' target='_parent' title='Estate Collection Shower Enclosures and Bath Enclosures'>Estate Collection</a>&nbsp;|&nbsp;<a href='$url8' target='_parent' title='Silhouette Slider Collection'>Silhouette Slider Collection</a>
+		<img src='images/arrow-forward.gif' class='icon' alt=''/>";
+	break;
+    //Silhouette Collection	
+	case($filename==$ur8 || $filename==$ConstantContact):
+		echo "<img src='images/arrow-back.gif' class='icon' alt=''/>
+		<a href='$url6' target='_parent' title='Estate Collection Shower Enclosures and Bath Enclosures'>Estate Collection</a>&nbsp;|&nbsp;<a href='$url3' target='_parent' title='Accent Collection'>Accent Collection</a>
 		<img src='images/arrow-forward.gif' class='icon' alt=''/>";
 	break;
 	default:
