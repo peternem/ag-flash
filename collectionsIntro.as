@@ -236,18 +236,7 @@ package {
 			pinstripeBot.graphics.endFill();
 			pinstripeBot.name="up";
 			pinstripeBot.alpha=1;
-			addChild(pinstripeBot);
-			
-			var emptyBox:Sprite=new Sprite;
-			emptyBox.graphics.lineStyle(0,0x000000,100);
-			emptyBox.graphics.beginFill(0xCAC3B0);
-			emptyBox.graphics.drawRect(320,470,477,67.5);
-			emptyBox.graphics.endFill();
-			emptyBox.name="emptyBox";
-			emptyBox.alpha=1;
-//			emptyBox.x = 320;
-//			emptyBox.y = 470;
-			addChild(emptyBox);
+			addChild(pinstripeBot);	
 		}
 	/**
 		 * Draw the menu. 
