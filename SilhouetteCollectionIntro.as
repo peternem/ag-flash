@@ -33,7 +33,7 @@ package {
 	public class SilhouetteCollectionIntro extends MovieClip {
 		public var __menuList:XMLList;// Create an XML list to hold the buttons.
 		public var __loader:URLLoader;// External file loader.
-		public var url:String = "images/FRESCO-SD-SE-1.jpg";
+		public var url:String = "images/HG102307_0063.jpg";
 		public var urlRequest:URLRequest = new URLRequest(url);
 
 		public function SilhouetteCollectionIntro() {
@@ -50,7 +50,7 @@ package {
 			__loader.addEventListener(Event.COMPLETE,onXMLLoaded);
 
 			// Load the xml file.
-			__loader.load(new URLRequest("Flash-XML/fresco-menu.xml"));
+			__loader.load(new URLRequest("Flash-XML/silhouette-slider-menu.xml"));
 
 		}
 		public function onXMLLoaded(event:Event):void {
@@ -167,6 +167,14 @@ package {
 			pinstripeBot.name="up";
 			pinstripeBot.alpha=1;
 			addChild(pinstripeBot);
+
+			var menuSpacer:Sprite=new Sprite;
+			menuSpacer.graphics.lineStyle(1,0x000000,100);
+			menuSpacer.graphics.beginFill(0xCAC3B0);
+			menuSpacer.graphics.drawRect(645,505,152,35);
+			menuSpacer.graphics.endFill();
+			menuSpacer.alpha=1;
+			addChild(menuSpacer)
 		}
 		/**
 		 * Draw the menu. 
