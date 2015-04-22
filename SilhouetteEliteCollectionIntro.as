@@ -33,7 +33,7 @@ package {
 	public class SilhouetteEliteCollectionIntro extends MovieClip {
 		public var __menuList:XMLList;// Create an XML list to hold the buttons.
 		public var __loader:URLLoader;// External file loader.
-		public var url:String = "images/HG102307_0063.jpg";
+		public var url:String = "images/2B-Photo-SESD180-4564-1.jpg";
 		public var urlRequest:URLRequest = new URLRequest(url);
 
 		public function SilhouetteEliteCollectionIntro() {
@@ -133,7 +133,7 @@ package {
 			tf2.width = 500;
 			tf2.x = 14;
 			tf2.y = 70;
-			tf2.text = "Innovative Essential Design";
+			tf2.text = "Innovative-Essential Design";
 			tf2.embedFonts=true;
 			tf2.antiAliasType=AntiAliasType.ADVANCED;
 			tf2.setTextFormat(myTextFormat2);

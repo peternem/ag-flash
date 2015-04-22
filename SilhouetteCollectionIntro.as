@@ -2,10 +2,6 @@
 ////  Author - Matt Peternell
 ////  Created - 101408
 ////  Revised - 101608  - Estate Zoom Movie Clip and button added
-////
-////  
-
-
 
 package {
 	import flash.display.MovieClip;
@@ -28,12 +24,10 @@ package {
 	import flash.filters.GlowFilter;
 	import flash.filters.BitmapFilterQuality;
 
-
-
 	public class SilhouetteCollectionIntro extends MovieClip {
 		public var __menuList:XMLList;// Create an XML list to hold the buttons.
 		public var __loader:URLLoader;// External file loader.
-		public var url:String = "images/HG102307_0063.jpg";
+		public var url:String = "images/2A-Photo-SSE-3767-1.jpg";
 		public var urlRequest:URLRequest = new URLRequest(url);
 
 		public function SilhouetteCollectionIntro() {
@@ -64,10 +58,8 @@ package {
 				__menuList=menuXML.button;// Create a list of the buttons.
 				backgroundImg();//// load backgroundImg
 				drawMenu();// Now that the XML is loaded and our list is made, create the menu.
-				//EstateZoom(); // Now that the XML is loaded and our list is made, load Estate zoom button.
 				pinstripe();
 				CollectionName();
-
 				trace(menuXML.button);
 			} catch (error:Error) {
 
@@ -78,7 +70,6 @@ package {
 				errorMessage.x = 10;
 				errorMessage.y = 10;
 				errorMessage.text=error.message;
-				//errorMessage.bold = true;
 				addChild(errorMessage);
 				return;
 			}
@@ -108,7 +99,6 @@ package {
 			glow.blurX = 3;
 			glow.blurY = 3;
 			glow.quality = BitmapFilterQuality.HIGH;
-
 
 			var tf:TextField = new TextField();
 			//tf.autoSize = TextFieldAutoSize.LEFT;
