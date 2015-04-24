@@ -1,72 +1,49 @@
-<!-- saved from url=(0013)about:internet -->
-<html lang="en">
+<!DOCTYPE html>
+<html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>estateGlass</title>
-<script language="javascript"> AC_FL_RunContent = 0; </script>
-<script language="javascript"> DetectFlashVer = 0; </script>
-<script src="AC_RunActiveContent.js" language="javascript"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-// -----------------------------------------------------------------------------
-// Globals
-// Major version of Flash required
-var requiredMajorVersion = 9;
-// Minor version of Flash required
-var requiredMinorVersion = 0;
-// Revision of Flash required
-var requiredRevision = 115;
-// -----------------------------------------------------------------------------
-// -->
-</script>
+    <meta charset="UTF-8">
+    <title>estateGlass</title>
+    <script type="text/javascript" src="swfobject.js"></script>
+    <script type="text/javascript">
+			<!-- Adobe recommends that developers use SWFObject2 for Flash Player detection. -->
+			<!-- For more information see the SWFObject page at Google code (http://code.google.com/p/swfobject/). -->
+			<!-- Information is also available on the Adobe Developer Connection Under "Detecting Flash Player versions and embedding SWF files with SWFObject 2" -->
+			<!-- Set to minimum required Flash Player version or 0 for no version detection -->
+			var swfVersionStr = "16.0.0";
+			<!-- xiSwfUrlStr can be used to define an express installer SWF. -->
+			var xiSwfUrlStr = "";
+			var flashvars = {};
+			var params = {};
+			params.quality = "high";
+			params.bgcolor = "#7d796d";
+			params.play = "true";
+			params.loop = "true";
+			params.wmode = "window";
+			params.scale = "showall";
+			params.menu = "true";
+			params.devicefont = "false";
+			params.salign = "";
+			params.allowscriptaccess = "sameDomain";
+			var attributes = {};
+			attributes.id = "estateGlass";
+			attributes.name = "estateGlass";
+			attributes.align = "middle";
+			swfobject.createCSS("html", "height:100%; background-color: #7d796d;");
+			swfobject.createCSS("body", "margin:0; padding:0; overflow:hidden; height:100%;");
+			swfobject.embedSWF(
+				"estateGlass.swf", "flashContent",
+				"800", "559",
+				swfVersionStr, xiSwfUrlStr,
+				flashvars, params, attributes);
+    </script>
 </head>
-<body bgcolor="#7d796d">
-<!--url's used in the movie-->
-<!--text used in the movie-->
-<script language="JavaScript" type="text/javascript">
-<!--
-if (AC_FL_RunContent == 0 || DetectFlashVer == 0) {
-	alert("This page requires AC_RunActiveContent.js.");
-} else {
-	var hasRightVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
-	if(hasRightVersion) {  // if we've detected an acceptable version
-		// embed the flash movie
-		AC_FL_RunContent(
-			'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,115,0',
-			'width', '800',
-			'height', '559',
-			'src', 'estateGlass',
-			'quality', 'high',
-			'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
-			'align', 'middle',
-			'play', 'true',
-			'loop', 'true',
-			'scale', 'showall',
-			'wmode', 'window',
-			'devicefont', 'false',
-			'id', 'estateGlass',
-			'bgcolor', '#7d796d',
-			'name', 'estateGlass',
-			'menu', 'true',
-			'allowScriptAccess','sameDomain',
-			'allowFullScreen','false',
-			'movie', 'estateGlass',
-			'salign', ''
-			); //end AC code
-	} else {  // flash is too old or we can't detect the plugin
-		var alternateContent = 'Alternate HTML content should be placed here.'
-			+ 'This content requires the Adobe Flash Player.'
-			+ '<a href=http://www.macromedia.com/go/getflash/>Get Flash</a>';
-		document.write(alternateContent);  // insert non-flash content
-	}
-}
-// -->
-</script>
-<noscript>
-	// Provide alternate content for browsers that do not support scripting
-	// or for those that have scripting disabled.
-  	Alternate HTML content should be placed here. This content requires the Adobe Flash Player.
-  	<a href="http://www.macromedia.com/go/getflash/">Get Flash</a>
-</noscript>
+<body>
+    <!-- SWFObject's dynamic embed method replaces this alternative HTML content for Flash content when enough JavaScript and Flash plug-in support is available. -->
+    <div id="flashContent">
+        <a href="http://www.adobe.com/go/getflash">
+            <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+        </a>
+        <p>This page requires Flash Player version 16.0.0 or higher.</p>
+    </div>
 </body>
 </html>
