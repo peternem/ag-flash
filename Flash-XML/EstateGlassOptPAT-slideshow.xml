@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<slideshow>
-    <slide glasstype="pat" label="Bubbles - 3/8&quot;" data="images/_MG_0036-bubbles.jpg" caption="Bubbles" />
+<slideshow>
+
+  <slide glasstype="pat" label="Baroque" data="images/Baroque-650x270.jpg" caption="Baroque" />
+
+  <slide glasstype="pat" label="Bubbles - 3/8&quot;" data="images/_MG_0036-bubbles.jpg" caption="Bubbles" />
     <slide glasstype="pat" label="Flash" data="images/estate-flash_0010-xl.jpg" caption="Flash" />
     <slide glasstype="pat" label="Glue Chip" data="images/_MG_0004-gluechipAVF.jpg" caption="Glue Chip" />
     <slide glasstype="pat" label="Rain - 3/8&quot;" data="images/_MG_0030-RainEstate.jpg" caption="Rain" />

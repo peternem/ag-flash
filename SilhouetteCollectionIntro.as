@@ -123,7 +123,7 @@ package {
 			tf2.width = 500;
 			tf2.x = 14;
 			tf2.y = 70;
-			tf2.text = "Stylish and Minimal";
+			tf2.text = "European Elegance";
 			tf2.embedFonts=true;
 			tf2.antiAliasType=AntiAliasType.ADVANCED;
 			tf2.setTextFormat(myTextFormat2);

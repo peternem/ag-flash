@@ -17,12 +17,11 @@
 			<li><a href="collections.php">The Collections</a>
 				<ul>
 					<li><a href="estate_collection.php">Estate Collection</a></li>
+                    <li><a href="silhouette_slider_collection.php">Silhouette Slider Collection</a></li>
+					<li><a href="silhouette_elite_collection.php">Silhouette Elite Collection</a></li>
 					<li><a href="accent_collection.php">Accent Collection</a></li>
 					<li><a href="fresco_collection.php">Fresco Collection</a></li>
 					<li><a href="vision_collection.php">Vision Collection</a></li>
-					<li><a href="vision_collection.php">Vision Collection</a></li>
-					<li><a href="silhouette_slider_collection.php">Silhouette Slider Collection</a></li>
-					<li><a href="silhouette_elite_collection.php">Silhouette Elite Collection</a></li>
 				</ul></li>
 			<li><a href="agalite-shower-doors-glass.php" title="Glass Options">Shower
 					Door Glass</a></li>
