@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slideshow>
+  <slide label="SD" data="images/Config-SD.png" caption="SD - Shower Door" />
+  <slide label="SD180" data="images/Config-SD180.png" caption="SD180 - Shower Door with inline panel." />
+  <slide label="SD180 Step-up" data="images/Config-SD180-stepup.png" caption="SD180 Step-up - Shower Door with inline step-up panel." />
+  <slide label="SD290 Step-up DAW 1" data="images/Config-SD290-stepupDAW1.png" caption="SD290 Step-up DAW - Shower door at wall, inline full panel and 90 degree step-up panel." />
+</slideshow>
