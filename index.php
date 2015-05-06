@@ -77,7 +77,7 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
     <div id="innerwrapper">
         <?php include 'includes/collection_copy.php'; ?>
     </div>
-    <br class="clearfloat xxx" />
+    <br class="clearfloat" />
     <div id="ag-links" align="center">
         <?php include 'includes/footer_collectionLinks.php'; ?>
     </div>
